@@ -31,7 +31,7 @@ Application is a code-along project in Udemy's Beginner React (2019) "Create a M
 
 ## Installation
 
-1. Clone the repo: git clone https://github.com/hillc255/ReactMovieDB.git
+1. Clone the repo: git clone https://github.com/karthik1209-git/ReactMovieDB.git
 2. Obtain your own API key from "The Movie Database" website and add to config.js
 3. Navigate to the folder `cd ./ReactMovieDB`
 4. Install all the dependencies: `npm install`
