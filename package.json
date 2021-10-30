@@ -9,7 +9,7 @@
     "react-dom": "^16.5.2",
     "react-fontawesome": "^1.6.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.5"
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -20,6 +20,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "webpack-dev-server": "^3.2.0"
+    "webpack-dev-server": "^4.4.0"
   }
 }
