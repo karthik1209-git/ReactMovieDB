@@ -63,10 +63,6 @@ Application is a code-along project in Udemy's Beginner React (2019) "Create a M
 
 Future consideration
 
-## Contributors
-
-Claudia Hill worked on this project.
-
 ## License
 
 Only to be used for educational purposes.
